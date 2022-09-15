@@ -1,44 +1,28 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
+# Final_TelecomDDD
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula  | Aluno        |
+| ---------- | ------------ |
+| 19/0024950 | Arthur Melo  |
+| 18/0105604 | Luis Marques |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Projeto para auxilio na prototipagem de linhas telefonicas moveis
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+![print1](prints/p1.png)
+![print2](prints/p2.png)
+![print3](prints/p3.png)
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: Javascript<br>
+**Framework**: node<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Execute o Comando :
+        node index.js
 
 
 
